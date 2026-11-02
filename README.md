@@ -36,3 +36,14 @@ Le site est statique (HTML, CSS, JavaScript), sans base de données ni framework
 4. Compléter les informations de formation et d'expérience si elle souhaite les publier.
 
 Les images actuellement référencées sont des images temporaires distantes. Aucun diplôme, emploi, témoignage ou contact fictif n'est revendiqué.
+
+
+## Publication
+
+Le site est un site statique multi-pages. Pour Vercel, importer ce dépôt et utiliser :
+- Framework preset : Other
+- Build command : laisser vide
+- Output directory : `.`
+- Install command : laisser vide
+
+Le fichier `index.html` est la page d'entrée. Aucun serveur ni base de données n'est requis. Les polices Google et les photos d'illustration nécessitent une connexion Internet.
