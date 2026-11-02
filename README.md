@@ -9,6 +9,7 @@ Site vitrine personnel, inspirant et responsive autour de l'identité, des valeu
 - `valeurs.html` — Valeurs humaines et féminité
 - `evolution.html` — Vision et cheminement personnel
 - `parcours.html` — Parcours, apprentissages et aspirations
+- `inspirations.html` — Pensées et repères pour le cheminement personnel
 - `contact.html` — Contact direct par téléphone et e-mail
 
 ## Charte graphique
